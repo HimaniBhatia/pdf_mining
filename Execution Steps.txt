@@ -1,0 +1,13 @@
+Description:
+------------
+Program that reads entire pdf files in a given folder/directory 
+and output information extracted from it into File 1 and File 2 as described below. 
+
+
+Execution Steps
+---------------
+The script.py has a method named "dataExtract()"
+Input parameter to the function is the path of directory where pdf file are stored.
+Either call the "dataExtract()" method from some other module
+     or 
+Uncomment the last line and run the script as a standalone
